@@ -1584,7 +1584,7 @@ footer .section-heading {
   margin-bottom: 45px;
 }
 
-footer .section-heading h4 {
+footer .section-heading h4,h5 {
   line-height: 45px;
   color: #fff;
   margin-left: 13%;
